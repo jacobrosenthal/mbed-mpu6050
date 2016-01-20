@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/jacobrosenthal/mbed-mpu6050",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "mbed-drivers": "*"
+  }
 }
