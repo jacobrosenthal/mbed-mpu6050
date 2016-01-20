@@ -1,0 +1,21 @@
+{
+  "name": "mpu6050",
+  "version": "0.0.0",
+  "description": "mpu6050 library ported from Jeff Rowberg for mbed",
+  "keywords": [
+    "mpu6050",
+    "imu",
+    "6dof",
+    "accelerometer",
+    "gyroscope",
+    "i2c"
+  ],
+  "author": "Jacob Rosenthal",
+  "repository": {
+    "url": "git@github.com:jacobrosenthal/mbed-mpu6050.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/jacobrosenthal/mbed-mpu6050",
+  "license": "MIT",
+  "dependencies": {}
+}
